@@ -8,8 +8,8 @@ Café, gatos e gameplays fazem parte da rotina. Estudante de Sistemas de Informa
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
 src="https://camo.githubusercontent.com/35ac0694790ddda21ada952700c09d2995ea90b8cb37857f52aa63041a131959/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f637373332f637373332d6f726967696e616c2e737667" 
